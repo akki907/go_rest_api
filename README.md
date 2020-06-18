@@ -1,3 +1,3 @@
 ## rest api using golang and mongodb
 
-** go mod init
+run command => go run main.go
